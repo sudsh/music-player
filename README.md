@@ -1,6 +1,7 @@
 # music-player
 
-dự án Javascript của F8
-bước đầu trong sự nghiệp coder
+demo page: https://sudsh.github.io/music-player/
+- Dự án Javascript của F8
+- Bước đầu trong sự nghiệp coder
 
-Su - Đặng Sơn Hà
+ĐẶNG SƠN HÀ - Su
