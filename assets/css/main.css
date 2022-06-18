@@ -56,9 +56,11 @@ header {
 }
 
 header h4 {
-  color: var(--primary-color);
+  background: var(--primary-color-gradient);
+  color: transparent;
   font-size: 12px;
   user-select: none;
+  -webkit-background-clip: text;
 }
 
 header h2 {
